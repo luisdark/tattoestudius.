@@ -1,0 +1,55 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background-color: rgb(151, 171, 187);
+}
+#card{
+ color: black;
+margin: auto;
+content: center;
+}
+#contenedor{ 
+    border-radius: 10px;
+    color: white;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+    background-color: black;
+text-align: center;
+}
+#flexslider{
+    margin: auto;
+   padding-left: 20px;
+}
+#container-fluid{
+    
+    width: 90%;
+    height: auto;
+    margin: auto;
+    padding: 5px;
+    background-color:black;
+    border-radius: 20px;
+text-align: center;
+}
+#nav{ 
+    border-radius: 20px;
+    margin: auto;
+    margin-top: auto
+}
+section{
+    margin: auto;
+    border-radius: 25px;
+    color: black;
+    
+}
+button{
+    color: whitesmoke;
+}
+
+footer{ 
+     width: 100%;
+     height: auto;
+     color: aliceblue;
+     background-color:black ;
+     text-align: center;
+}
